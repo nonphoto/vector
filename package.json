@@ -1,8 +1,8 @@
 {
-  "name": "vector",
+  "name": "@nonphoto/vector",
   "version": "1.0.0",
-  "description": "A no-nonsense vector class",
-  "main": "main.js",
+  "description": "Basic 2d vector math.",
+  "main": "src/vector.js",
   "scripts": {},
   "author": "Jonas Luebbers",
   "license": "MIT"
