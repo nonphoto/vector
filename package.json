@@ -2,7 +2,7 @@
   "name": "@nonphoto/vector",
   "version": "1.0.0",
   "description": "Basic 2d vector math.",
-  "main": "src/vector.js",
+  "main": "src/main.js",
   "scripts": {},
   "author": "Jonas Luebbers",
   "license": "MIT"
