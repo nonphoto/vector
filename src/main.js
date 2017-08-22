@@ -57,8 +57,8 @@ export default class Vector {
     }
 
     rotate(value) {
-        this.x = (x * Math.cos(value)) - (y * Math.sin(value))
-        this.y = (x * Math.sin(value)) + (y * Math.cos(value))
+        this.x = (this.x * Math.cos(value)) - (this.y * Math.sin(value))
+        this.y = (this.x * Math.sin(value)) + (this.y * Math.cos(value))
         return this
     }
 
